@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>iawriter.png</string>
+			<key>Title</key>
+			<string>iA Writer</string>
+			<key>URL</key>
+			<string>iawriter://new?text={popclip text}&amp;x-source=PopClip</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Bundle Identifier</key>
+			<string>pro.writer.mac</string>
+			<key>Check Installed</key>
+			<true/>
+			<key>Link</key>
+			<string>https://geo.itunes.apple.com/us/app/ia-writer/id775737590?mt=12&amp;uo=4&amp;at=10l4LV&amp;ct=w</string>
+			<key>Name</key>
+			<string>iA Writer</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>https://github.com/nikolalek</string>
+			<key>Name</key>
+			<string>Aleksey Nikolaev</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<dict>
+		<key>en</key>
+		<string>Copy text in iA Writer.</string>
+		<key>ru</key>
+		<string>Скопировать текст в iA Writer.</string>
+	</dict>
+	<key>Extension Identifier</key>
+	<string>com.nikolalek.popclip.extension.iawriter</string>
+	<key>Extension Name</key>
+	<string>iA Writer</string>
+	<key>Required Software Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
