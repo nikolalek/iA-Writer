@@ -10,7 +10,7 @@
 			<key>Title</key>
 			<string>iA Writer</string>
 			<key>URL</key>
-			<string>iawriter://new?text={popclip text}&amp;x-source=PopClip</string>
+			<string>ia-writer://x-callback-url/new?text={popclip text}&amp;source=PopClip</string>
 		</dict>
 	</array>
 	<key>Apps</key>
@@ -47,6 +47,6 @@
 	<key>Extension Name</key>
 	<string>iA Writer</string>
 	<key>Required Software Version</key>
-	<integer>1</integer>
+	<real>1.1000000000000001</real>
 </dict>
 </plist>
