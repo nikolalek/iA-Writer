@@ -47,6 +47,6 @@
 	<key>Extension Name</key>
 	<string>iA Writer</string>
 	<key>Required Software Version</key>
-	<real>1.1</real>
+	<real>3</real>
 </dict>
 </plist>
